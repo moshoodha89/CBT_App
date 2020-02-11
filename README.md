@@ -1,2 +1,2 @@
 # CBT_App
- Ane educational software to help improve learning
+ An educational software modelled after UTM Examination for students to practice as they prepare for exams.
